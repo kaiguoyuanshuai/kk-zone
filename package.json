@@ -1,0 +1,15 @@
+{
+  "name": "kk-zone",
+  "version": "1.0.0",
+  "description": "zone",
+  "main": "index.js",
+  "author": "zhengkk <zhengkk@pingpongx.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.51"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
